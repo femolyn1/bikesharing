@@ -11,7 +11,7 @@ According to the US census beaureau[2], Des Moines population as at July 1, 2019
 In comparison to New York City with a population of 1,628,706, Des Moines forms only 13% of Manhattan NY City's population. However,as shown in slides 4 and 5 of the [story point](https://public.tableau.com/profile/femi.adeleke#!/vizhome/Book1_15955256267580/StoryPoints?publish=yes), a significant increase in population was observed in the metro area of Des Moines city. 
 
 ### Effect of Population on Bike Sharing program
-Although it is diffucult to assess  
+Although we do not have enough information on the above subject, we can see based on the available data that  New York City's population within the age of 18 to 64 was about 64%. This age group most likely form the most active age group who would patronize the bike sharing program in New York city. Interestingly, we observed a similar trend in the age group of Des Moines population, as 56.9% of its population are within the same age bracket. This gives us the confindence that a bike sharing program in Des Moines would be well patronized. 
 
 
 
