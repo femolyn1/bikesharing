@@ -8,9 +8,10 @@ We would like to thank you for taking time out of your busy schedule to review t
 According to the US census beaureau[2], Des Moines population as at July 1, 2019 was  214,237. Page 1 of the [Story point](https://public.tableau.com/profile/femi.adeleke#!/vizhome/Book1_15955256267580/StoryPoints?publish=yes) shows a breakdown of the population by age.
 
 ### Comparison with New York City
-In comparison with New York City with a population of 1,628,706, Des Moines forms only 13% of Manhattan NY City's population. 
+In comparison to New York City with a population of 1,628,706, Des Moines forms only 13% of Manhattan NY City's population. 
 
 ### Effect of Population on Bike Sharing program
+
 
 
 
