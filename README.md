@@ -21,5 +21,5 @@ In comparison to New York City with a population of 1,628,706, Des Moines forms 
 Sources:
 1. World Population Website: https://worldpopulationreview.com/us-cities/des-moines-ia-population
 2. Census Government Website : https://www.census.gov/quickfacts/fact/table/newyorkcountymanhattanboroughnewyork,desmoinescityiowa/INC110218#INC110218
-3. 
+3. International Journal of Nutrition, Labour and Physical Actitity :https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-019-0871-9/tables/1
 
