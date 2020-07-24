@@ -5,12 +5,11 @@ We would like to thank you for taking time out of your busy schedule to review t
 * How does its population compare to the population of New York City? 
 * Does the population affect the number of people who will use the bike-sharing program? 
 
-
-[Story point](https://public.tableau.com/profile/femi.adeleke#!/vizhome/Book1_15955256267580/StoryPoints?publish=yes)
+According to the US census beaureau[2], Des Moines population as at July 1, 2019 was  214,237. Page 1 of the [Story point](https://public.tableau.com/profile/femi.adeleke#!/vizhome/Book1_15955256267580/StoryPoints?publish=yes) shows a breakdown of the population by age. 
 
 
 Sources:
 1. World Population Website: https://worldpopulationreview.com/us-cities/des-moines-ia-population
-2. Census. Gov Website : https://www.census.gov/quickfacts/fact/table/newyorkcountymanhattanboroughnewyork,desmoinescityiowa/INC110218#INC110218
+2. Census Government Website : https://www.census.gov/quickfacts/fact/table/newyorkcountymanhattanboroughnewyork,desmoinescityiowa/INC110218#INC110218
 3. 
 
